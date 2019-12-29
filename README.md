@@ -16,4 +16,4 @@ Processor: Intel i7 7th generation RAM: 16GB DDR5
 OS: MAC
 Processor: Intel i5 8th generation RAM: 16GB DDR5
 
-The android device communicates with the server that executes the machine learning prediction using the saved models. The server then sends back the result to the android device that then plays the music according to the response received from the server. The architecture diagram is illustrated in Figure 1.
+The android device communicates with the server that executes the machine learning prediction using the saved models. The server then sends back the result to the android device that then plays the music according to the response received from the server. 
